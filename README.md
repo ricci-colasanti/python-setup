@@ -9,13 +9,28 @@ To install on your Mac, copy, paste, and then execute the following in your term
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+## Install python on Mac with Homebrew
+```bash
+brew install python
+``
+
+## Install Git on Mac with Homebrew
+``bash
+brew install git
+```
+
+## Load this repo
+```bash
+git clone https://github.com/ricci-colasanti/python-setup
+```
+
 ## Python Virtual Environment & Jupyter Setup1. Set Up Virtual Environment
 ```bash
+cd python-setup
 python3 -m venv venv
 ```
 
 ## Activate Virtual Environment
-On macOS/Linux:
 ```bash
 source venv/bin/activate
 ```
