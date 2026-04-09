@@ -12,7 +12,7 @@ To install on your Mac, copy, paste, and then execute the following in your term
 ## Install python on Mac with Homebrew
 ```bash
 brew install python
-``
+```
 
 ## Install Git on Mac with Homebrew
 ``bash
