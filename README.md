@@ -17,6 +17,6 @@ jupyter notebook
 ## .gitignore for Virtual Environments
 .gitignore file tells Git to ignore specific files. In this case the venv which is set up for indvidual computers.
 
-1.Git will stop showing the folder in your file list.
-2.You won't accidentally upload it.
+Git will stop showing the folder in your file list.  
+You won't accidentally upload it.
 
