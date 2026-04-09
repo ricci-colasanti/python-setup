@@ -15,7 +15,7 @@ brew install python
 ```
 
 ## Install Git on Mac with Homebrew
-``bash
+```bash
 brew install git
 ```
 
