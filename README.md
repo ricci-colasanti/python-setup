@@ -10,16 +10,22 @@ To install on your Mac, copy, paste, and then execute the following in your term
 ```
 
 ## Python Virtual Environment & Jupyter Setup1. Set Up Virtual Environment
+```bash
 python3 -m venv venv
+```
 
 ## Activate Virtual Environment
 On macOS/Linux:
+```bash
 source venv/bin/activate
+```
 
 ## Install Jupyter & Run
-pip install jupyter
-jupyter notebook
+```bash
+pip install jupyter matplotlib
 
+jupyter notebook
+```
 
 ## .gitignore for Virtual Environments
 .gitignore file tells Git to ignore specific files. In this case the venv which is set up for indvidual computers.
